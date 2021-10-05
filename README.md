@@ -1,2 +1,2 @@
 # ENT3R
-Kode til i ENT3R Trondheim
+Kode som er brukt under elevforsøk i ENT3R Trondheim og ENT3R Digital
