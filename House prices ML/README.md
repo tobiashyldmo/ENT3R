@@ -1,2 +1,3 @@
 # ENT3R
-Kode som er brukt under elevforsøk i ENT3R Trondheim og ENT3R Digital
+Data from: https://www.kaggle.com/vikrishnan/boston-house-prices
+H20 AUTOML
